@@ -1,11 +1,11 @@
-JOGO DO NÚMERO SECRETO;NBSP
-==== == ====== =======
+JOGO DO NÚMERO SECRETO  
+=
 
-SOBRE:
+__SOBRE:__   
 Projeto utilizado nos cursos de lógica de programação da Alura.
 
-TECNOLOGIAS:
+__TECNOLOGIAS:__  
 HTML; CSS e; JAVASCRIPT.
 
-TIME:
+__TIME:__  
 Gabrielle Ribeiro e Rodrigo Caneppele
